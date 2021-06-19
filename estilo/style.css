@@ -6,4 +6,4 @@ li{color:#f8f4e3;font-weight: 10px;}
 #foto{width: 100px; border-radius: 150px; margin-bottom: 5px; margin-left: 20px;}
 .caixa{border:solid;color: #818aa3; border-radius: 6px; padding: 50px;}
 figcaption{color:#f8f4e3;font-weight: 10px;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; margin-bottom: 20px;}
-li:hover{background-color: #818aa3; width: 100px;  text-decoration: underline; transition-duration: 0.3s;}
+li:hover{cursor:pointer; background-color: #818aa3; width: 100px;  text-decoration: underline; transition-duration: 0.3s;}
